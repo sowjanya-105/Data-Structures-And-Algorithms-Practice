@@ -1,6 +1,7 @@
 # Data Structures Using C++ Practice
 
-Data structures and Algorithms help in understanding the nature of the problem at a deeper level and thereby a better understanding of the world.They play a major role in implementing software and in the hiring process as well.
+Data structures and Algorithms help in understanding the nature of the problem at a deeper level and thereby a better understanding of the world.<br>
+They play a major role in implementing software and in the hiring process as well.
 
 This repository contains all the programs which I had practiced or solved while learning Data Structures in C++.
 
@@ -13,10 +14,10 @@ This repository contains all the programs which I had practiced or solved while 
 ## Coding Practice:
 
 - Hacker rank 
-- Hacker earth 
+- Leet Code
+- Basic Problems practice from https://www.techiedelight.com/
 
 ## Tools used:
 
 - Dev C++ 
-- Code blocks 
-- Turbo C++ 
+- Visual studio
