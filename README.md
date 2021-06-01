@@ -5,19 +5,22 @@ They play a major role in implementing software and in the hiring process as wel
 
 This repository contains all the programs which I had practiced or solved while learning Data Structures in C++.
 
+Please feel free to fork this repository, raise issues and submit PRs if you think something could be better.
+
 ## Learning Resources:
 
-- **Udemy (Online Course)** - Mastering Data Structures and Algorithms using C and C++ by Mr.Abdul Bari 
-- **Oxford Higher Education (Reference Book)** - Data Structures using C by Reema Thareja 
-- **Geeks for Geeks (Reference site and coding practice)** - Data Structures in C++
+- **Udemy (Online Course)** - Mastering Data Structures and Algorithms using C and C++ by Mr. Abdul Bari 
+- **Youtube** - https://www.youtube.com/c/AdityaVermaTheProgrammingLord/playlists 
+- **Geeks for Geeks (Reference site)** - Data Structures in C++
 
 ## Coding Practice:
 
 - Hacker rank 
 - Leet Code
-- Basic Problems practice from https://www.techiedelight.com/
+- Geeks for Geeks
 
 ## Tools used:
 
 - Dev C++ 
 - Visual studio
+
