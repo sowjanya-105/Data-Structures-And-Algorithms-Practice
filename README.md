@@ -5,7 +5,7 @@ They play a major role in implementing software and in the hiring process as wel
 
 This repository contains all the programs which I had practiced or solved while learning Data Structures in C++.
 
-Please feel free to fork this repository, raise issues and submit PRs if you think something could be better.
+Please feel free to fork this repository, raise issues and submit Pull requests if you think something could be better.
 
 ## Learning Resources:
 
@@ -15,10 +15,9 @@ Please feel free to fork this repository, raise issues and submit PRs if you thi
 
 ## Coding Practice:
 
-- Hacker rank 
+- Hacker rank
 - Leet Code
 - Geeks for Geeks
-
 ## Tools used:
 
 - Dev C++ 
