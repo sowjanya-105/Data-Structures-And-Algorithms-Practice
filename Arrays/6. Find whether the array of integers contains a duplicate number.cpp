@@ -15,7 +15,7 @@ int main()
 	cout<<"Duplicate values are: ";
 	for(i=0;i<n;i++)
 	{
-		for(j=j+1;j<n;j++)
+		for(j=i+1;j<n;j++)
 		{
 			if(arr[i]==arr[j])
 			{
