@@ -28,7 +28,7 @@ int main()
 		arr3[index]=arr1[i];
 		index++;
 	}
-    for(i=0;i<n1;i++)
+    for(i=0;i<n2;i++)
 	{
 		arr3[index]=arr2[i];
 		index++;
