@@ -7,7 +7,7 @@ int main()
 	int i,n1,n2,m,index=0;
 	cout<<"\nEnter the no. of elements in array 1: ";
 	cin>>n1;
-	cout<<"\nEnter the no. of elements in array 1:";
+	cout<<"\nEnter the elements in array 1:";
 	for(i=0;i<n1;i++)
 	{
 		cout<<"\narr1["<<i<<"] :";
@@ -15,7 +15,7 @@ int main()
 	}
 	cout<<"\n\nEnter the no. of elements in array 2: ";
 	cin>>n2;
-	cout<<"\nEnter the no. of elements in array 2:";
+	cout<<"\nEnter the elements in array 2:";
 	for(i=0;i<n2;i++)
 	{
 		cout<<"\narr2["<<i<<"] :";
